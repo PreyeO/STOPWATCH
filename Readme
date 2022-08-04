@@ -1,0 +1,5 @@
+STOP WATCH
+This is a stop watch.
+When the start button is double clicked, a stop button is shows up and the counter starts to count from seconds to minutes to hours.
+When the stop button is clicked, it pauses the timer.
+When the reset button is clicked, the timer resets to its initial time 00:00:00
